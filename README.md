@@ -25,7 +25,7 @@ The goal of this project is to help consumers quickly identify gluten-free produ
 
 ## Screenshots
 
-![Screenshot 1](link-to-screenshot-1)
+![Screenshot 1](Build The Model.png)
 ![Screenshot 2](link-to-screenshot-2)
 
 ## Live Project
