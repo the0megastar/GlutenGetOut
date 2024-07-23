@@ -26,11 +26,15 @@ The goal of this project is to help consumers quickly identify gluten-free produ
 ## Screenshots
 
 ![Build The Model](Build%20The%20Model.png)
-![Screenshot 2](link-to-screenshot-2)
+![Build The Model](Build%20The%20Model.png)
 
 ## Live Project
 
 You can view the live project on Deepnote [here](https://deepnote.com/app/zerogravity/GlutenGetOut-e4210be9-12e1-4925-b3c1-2b6fa04f9608).
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0](LICENSE) - see the LICENSE file for details.
 
 ## Contact
 
